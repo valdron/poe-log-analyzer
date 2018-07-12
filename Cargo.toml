@@ -1,0 +1,6 @@
+[package]
+name = "poe_client_log_analyzer"
+version = "0.1.0"
+authors = ["Paul Seehofer <seehofer.paul@gmail.com>"]
+
+[dependencies]
